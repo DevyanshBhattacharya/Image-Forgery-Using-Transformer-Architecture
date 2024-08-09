@@ -1,5 +1,6 @@
-#UNET Architecture for Image Segmentation 
-Overview
+# UNET Architecture for Image Segmentation 
+
+## Overview
 The UNt (U-Net Transformer) architecture is an advanced deep-learning model designed for image segmentation tasks. It combines the well-established U-Net architecture, which is known for its effectiveness in biomedical image segmentation, with the self-attention mechanisms of Transformer networks. This hybrid model leverages the U-Net's strong multi-scale feature extraction capabilities and the Transformer's ability to capture global dependencies, resulting in a powerful tool for precise and detailed image segmentation.
 
 Key Features
